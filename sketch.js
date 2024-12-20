@@ -40,7 +40,7 @@ function loadGifBasedOnWeather() {
   // 根據天氣決定標籤陣列是什麼
   let tags = [];
   if (mainWeather === "Clear") {
-    tags = ["yes", "yeah"];
+    tags = ["yes", "yeah", "dance"];
   } else {
     tags = ["no", "not yet", "hug"];
   }
