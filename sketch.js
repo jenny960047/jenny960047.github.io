@@ -42,7 +42,7 @@ function loadGifBasedOnWeather() {
   if (mainWeather === "Clear") {
     tags = ["yes", "yeah"];
   } else {
-    tags = ["no", "not yet"];
+    tags = ["no", "not yet", "hug"];
   }
 
   // 在陣列中隨機選擇一個標籤
